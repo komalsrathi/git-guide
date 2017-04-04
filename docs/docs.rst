@@ -4,7 +4,7 @@ Generate SSH-key
 
 `Reference`_
 
-.. code-block::bash
+.. code-block:: bash
 
 	# generate key
 	ssh-keygen -t rsa -C "your-email-address"
@@ -34,7 +34,7 @@ Generate SSH-key
 Switch remote on existing repo
 ==============================
 
-.. code-block::bash
+.. code-block:: bash
 
 	git remove remote origin
 	git remote add origin git@github.com:username/repo.git
@@ -44,7 +44,7 @@ Switch remote on existing repo
 Clone repo
 ==========
 
-.. code-block::bash
+.. code-block:: bash
 
 	# use HTTPs
 	git clone https://github.com/username/repo.git
