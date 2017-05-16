@@ -38,8 +38,8 @@ Switch remote on existing repo
 
 	git remove remote origin
 	git remote add origin git@github.com:username/repo.git
+	git remote set-url origin git@github.com:username/repo.git
 	git push origin master
-
 
 Clone repo
 ==========
