@@ -36,7 +36,7 @@ Switch remote on existing repo
 
 .. code-block:: bash
 
-	git remove remote origin
+	git remote rm origin
 	git remote add origin git@github.com:username/repo.git
 	git remote set-url origin git@github.com:username/repo.git
 	git push origin master
