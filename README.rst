@@ -12,5 +12,5 @@ Git Guide
 
 Introduction
 ============
-
+.....
 Guide/Solutions to general problems while using git. 
