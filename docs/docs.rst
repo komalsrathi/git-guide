@@ -52,3 +52,12 @@ Clone repo
 	# if you have two-factor auth enabled, use SSH
 	git clone git@github.com:username/repo.git
 
+Ignore files that have the mode changed
+=======================================
+
+
+.. code-block:: bash
+
+	git config core.filemode false
+	
+
