@@ -61,3 +61,10 @@ Ignore files that have the mode changed
 	git config core.filemode false
 	
 
+Multiple github accounts
+========================
+
+.. code-block:: bash
+
+	git push -f marislab master
+
