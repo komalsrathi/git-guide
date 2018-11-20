@@ -66,5 +66,6 @@ Multiple github accounts
 
 .. code-block:: bash
 
-	git push -f marislab master
+	git push <remote_name> master
+	git push -f <remote_name> master
 
